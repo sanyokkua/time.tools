@@ -1,2 +1,1 @@
-# time.tools
-simple time calculator
+This is the simple time calculator
